@@ -1,4 +1,7 @@
 este es el repote numero 1
 modificacion javier casiano
 
-se ha modificado modificacion umer 2
+se ha modificado modificacion
+
+
+esta a sido una modificacion desde netbeans
